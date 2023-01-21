@@ -1,0 +1,34 @@
+:root {
+    --mainColor: #f2f2f2;
+    --subColor: #ffffffbf;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-weight: 700;
+    color: var(--mainColor);
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 0.9375rem;
+    color: var(--subColor);
+}
+
+div {
+    max-width: 70%;
+}
+
+#sedan-container {
+    background-color: #e38826;
+}  
+
+#suv-container {
+   background-color: #006970;
+}
+
+#luxury-container {
+    background-color: #004241;
+}
+
