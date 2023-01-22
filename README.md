@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-Y2WcYCPhC2)
-- Live Site URL: (https://genuinemiyashita.github.io/Product-Preview-Card/)
+- Live Site URL: (https://genuinemiyashita.github.io/3-columnpreview-card-component/)
 
 ## My process
 
