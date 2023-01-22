@@ -91,6 +91,8 @@ p {
     color: var(--mainColor);
 }
 
+/* MEDIA QUERIES */
+
 @media (min-width: 960px) {
     #main-container {
         flex-direction: row;
@@ -109,6 +111,6 @@ p {
     }
 
     .button {
-        width: 60%;
+        width: 65%;
     }
 }
